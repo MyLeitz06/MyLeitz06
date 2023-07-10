@@ -14,10 +14,8 @@ Hi, I’m @MyLeitz06
 You can find a list of my research articles and talks' presentation on 📖 **[HAL CV][2]** and on **[ResearchGate][3]**
 
 <details>
-  <summary>:zap: More on me :zap: </summary>
-
- :clapper: TODO
- 
+  <summary>:zap: <b>More on me</b> :zap: </summary>
+<p> :clapper: TODO</p>
 </details>
 
 <!---
